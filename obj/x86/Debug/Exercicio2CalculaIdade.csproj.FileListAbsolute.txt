@@ -1,0 +1,5 @@
+/Users/reginaldomorikawa/Documents/Curso Senac Mobile/Projetos/Exercicio2CalculaIdade/bin/Debug/Exercicio2CalculaIdade.exe
+/Users/reginaldomorikawa/Documents/Curso Senac Mobile/Projetos/Exercicio2CalculaIdade/bin/Debug/Exercicio2CalculaIdade.pdb
+/Users/reginaldomorikawa/Documents/Curso Senac Mobile/Projetos/Exercicio2CalculaIdade/obj/x86/Debug/Exercicio2CalculaIdade.csproj.CoreCompileInputs.cache
+/Users/reginaldomorikawa/Documents/Curso Senac Mobile/Projetos/Exercicio2CalculaIdade/obj/x86/Debug/Exercicio2CalculaIdade.exe
+/Users/reginaldomorikawa/Documents/Curso Senac Mobile/Projetos/Exercicio2CalculaIdade/obj/x86/Debug/Exercicio2CalculaIdade.pdb
